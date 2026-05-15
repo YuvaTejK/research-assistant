@@ -1,4 +1,4 @@
-# 🔍 AI Research Assistant
+# 🔍 Multi-Agent Research Assistant
 
 A production-ready Multi-Agent AI Research Assistant built with LangChain, LangGraph, Groq (LLaMA 3), FAISS, and Streamlit.
 
